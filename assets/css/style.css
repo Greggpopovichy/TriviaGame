@@ -1,0 +1,45 @@
+body{
+    margin: auto;
+}
+
+.container div{
+    width: 100%;
+    height: auto;
+}
+
+.well{
+    font-size: x-large;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#remainingTime{
+    margin-top:10px;
+}
+
+.jumbotron{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+#inputData{
+    margin: 5px;
+}
+
+.question{
+    padding: 10px;
+    font-size: large;
+}
+
+label{
+    padding: 5px;
+}
+
+.panel-default{
+    margin-top: 25px;
+}
